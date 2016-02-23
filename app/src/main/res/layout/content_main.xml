@@ -16,4 +16,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:id="@+id/start_system"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="start_system"/>
+
 </RelativeLayout>
